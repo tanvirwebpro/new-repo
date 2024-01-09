@@ -1,0 +1,56 @@
+.banner-card{
+    position: relative;
+}
+.banner-card img{
+    max-width: 100%;
+    height: auto;
+    margin-left: 140px;
+    margin-bottom: 50px;
+    margin-top: 50px;
+    background: linear-gradient(rgba(0,0,000.9),rgba(0,0,0,0.7),url('/resources/Banner\ Image.png'));
+    
+
+}
+.banner-text {
+    position: absolute;
+    color: #ffffff;
+    top: 30%;
+    text-align: center;
+    padding-left: 35%;
+}
+.banner-text h1{
+    font-size: 72px;
+    text-align: center;
+    font-weight: 1000px;
+}
+.banner-text h4 {
+    font-size: 32px;
+    font-weight: 600;
+
+}
+.section-title{
+    position: relative;
+    text-align: center;
+    margin-left: 130px;
+ 
+}
+.section-title h1{
+    
+    color: #F00;
+    text-align: center;
+   font-family: 'Inter', sans-serif;
+    font-size: 88px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    
+}
+.section-title, p ,h3 {
+    position: absolute;
+    margin-left: 40%;
+    padding: 0%;
+    align-items: center;
+}
+.section-title p{
+    line-break: 5px;
+}
